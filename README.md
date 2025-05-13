@@ -34,16 +34,6 @@ hora-do-dia/
 2. Abra o `index.html` em qualquer navegador moderno.
 3. Pronto! A interface se adapta automaticamente com base na hora.
 
-## 🎨 Exemplo de Visual
-
-Você pode usar imagens como:
-
-- **manha.png**: Um sol nascendo.
-- **tarde.png**: Céu azul com o sol alto.
-- **noite.png**: Céu escuro com a lua e estrelas.
-
-Imagens podem ser criadas manualmente ou obtidas em bancos gratuitos como [Unsplash](https://unsplash.com/) ou [Pexels](https://www.pexels.com/).
-
 ## 📄 Licença
 
 Código sob a licença MIT. Imagens devem ser de uso livre ou de sua autoria.
